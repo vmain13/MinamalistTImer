@@ -1,7 +1,9 @@
 # MinimalistTimer
 Production Ready Build of Minimalist Timer
 Minimalist Timer by Chris Frerichs, Taylor Steinberg, Vaman Muppala 
+
 Github Link: https://github.com/vmain13/MinamalistTImer
+
 Walkthrough Link: https://www.youtube.com/watch?v=EKh36bRhYMI&feature=youtu.be
 
 
