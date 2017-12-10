@@ -1,7 +1,6 @@
 # MinamalistTImer
 Production Ready Build of Minimalist Timer
-Minimalist Timer by Taylor Steinberg, Vaman Muppala and Chris Frerichs
-NetID: tls45, taylor.steinberg@yale.edu
+Minimalist Timer by Chris Frerichs, Taylor Steinberg, Vaman Muppala 
 Github Link: https://github.com/vmain13/MinamalistTImer
 Walkthrough Link: https://www.youtube.com/watch?v=EKh36bRhYMI&feature=youtu.be
 
